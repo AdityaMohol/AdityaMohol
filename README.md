@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AdityaMohol
 - 👀 I’m interested in Network security
 - 🌱 I’m currently learning BE computer
-- 💞️ I’m looking to collaborate on hacking scripts
+- 💞️ I’m looking to collaborate on ethical hacking forums
 - 📫 How to reach me Email - moholaditya@gmail.com
 
 <!---
